@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from opencv_wb_camera_msgs/srv/TakeSnapshot.srv
+// generated code does not contain a copyright notice
+
+
+module opencv_wb_camera_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "요청 부분은 비어있거나 스틸샷 설정을 포함할 수 있습니다.")
+    struct TakeSnapshot_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct TakeSnapshot_Response {
+      @verbatim (language="comment", text=
+        "촬영 성공 여부")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        "저장된 스틸샷의 파일 경로")
+      string filepath;
+    };
+  };
+};

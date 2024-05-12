@@ -1,0 +1,21 @@
+{
+  "package_name": "opencv_wb_camera_msgs",
+  "output_dir": "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_typesupport_introspection_c/opencv_wb_camera_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs:msg/CameraStillShot.idl",
+    "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs:srv/TakeSnapshot.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs/msg/CameraStillShot.idl",
+    "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs/srv/TakeSnapshot.idl"
+  ]
+}

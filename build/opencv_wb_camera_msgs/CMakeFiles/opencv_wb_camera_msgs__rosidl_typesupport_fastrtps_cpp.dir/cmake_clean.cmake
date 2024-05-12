@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/msg/detail/dds_fastrtps/camera_still_shot__type_support.cpp.o"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/msg/detail/dds_fastrtps/camera_still_shot__type_support.cpp.o.d"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/srv/detail/dds_fastrtps/take_snapshot__type_support.cpp.o"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/srv/detail/dds_fastrtps/take_snapshot__type_support.cpp.o.d"
+  "libopencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libopencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/msg/detail/dds_fastrtps/camera_still_shot__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/srv/detail/dds_fastrtps/take_snapshot__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_fastrtps_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

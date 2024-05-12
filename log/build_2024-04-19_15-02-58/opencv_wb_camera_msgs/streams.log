@@ -1,0 +1,30 @@
+[0.136s] Invoking command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs': CMAKE_PREFIX_PATH=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake /home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera_msgs -DCMAKE_INSTALL_PREFIX=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs
+[0.192s] -- The C compiler identification is GNU 11.4.0
+[0.243s] -- The CXX compiler identification is GNU 11.4.0
+[0.250s] -- Detecting C compiler ABI info
+[0.297s] -- Detecting C compiler ABI info - done
+[0.304s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.305s] -- Detecting C compile features
+[0.305s] -- Detecting C compile features - done
+[0.309s] -- Detecting CXX compiler ABI info
+[0.365s] -- Detecting CXX compiler ABI info - done
+[0.372s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.372s] -- Detecting CXX compile features
+[0.372s] -- Detecting CXX compile features - done
+[0.375s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.607s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.681s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.685s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.692s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.731s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.762s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.762s]   rosidl_generate_interfaces() the passed file 'msg/camera_still_shot'
+[0.762s]   doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.762s]   '/home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera_msgs'
+[0.762s] Call Stack (most recent call first):
+[0.763s]   CMakeLists.txt:16 (rosidl_generate_interfaces)
+[0.763s] 
+[0.763s] [0m
+[0.763s] -- Configuring incomplete, errors occurred!
+[0.763s] See also "/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/CMakeFiles/CMakeOutput.log".
+[0.766s] Invoked command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs' returned '1': CMAKE_PREFIX_PATH=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake /home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera_msgs -DCMAKE_INSTALL_PREFIX=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs

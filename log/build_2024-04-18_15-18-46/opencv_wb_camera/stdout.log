@@ -1,0 +1,32 @@
+running egg_info
+writing ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/PKG-INFO
+writing dependency_links to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/dependency_links.txt
+writing entry points to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/entry_points.txt
+writing requirements to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/requires.txt
+writing top-level names to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/top_level.txt
+reading manifest file '../../build/opencv_wb_camera/opencv_wb_camera.egg-info/SOURCES.txt'
+writing manifest file '../../build/opencv_wb_camera/opencv_wb_camera.egg-info/SOURCES.txt'
+running build
+running build_py
+copying opencv_wb_camera/img_publisher.py -> /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+copying opencv_wb_camera/edge.py -> /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+copying opencv_wb_camera/__init__.py -> /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+copying opencv_wb_camera/mirror.py -> /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+running install
+running install_lib
+running install_data
+copying resource/opencv_wb_camera -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/ament_index/resource_index/packages
+copying package.xml -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera
+copying launch/edge.launch.py -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera/launch
+copying launch/mirror.launch.py -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera/launch
+copying launch/camera.launch.py -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera/launch
+copying param/filter.yaml -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera/param
+copying param/size.yaml -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera/param
+running install_egg_info
+removing '/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/opencv_wb_camera/opencv_wb_camera.egg-info to /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera-0.0.0-py3.10.egg-info
+running install_scripts
+Installing edge script to /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/opencv_wb_camera
+Installing img_publisher script to /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/opencv_wb_camera
+Installing mirror script to /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/opencv_wb_camera
+writing list of installed files to '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/install.log'

@@ -1,0 +1,2 @@
+/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs:msg/CameraStillShot.idl
+/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs/rosidl_adapter/opencv_wb_camera_msgs:srv/TakeSnapshot.idl

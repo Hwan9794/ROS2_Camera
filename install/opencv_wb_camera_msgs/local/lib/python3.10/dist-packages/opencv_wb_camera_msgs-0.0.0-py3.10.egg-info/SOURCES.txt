@@ -1,0 +1,11 @@
+setup.py
+opencv_wb_camera_msgs/__init__.py
+opencv_wb_camera_msgs.egg-info/PKG-INFO
+opencv_wb_camera_msgs.egg-info/SOURCES.txt
+opencv_wb_camera_msgs.egg-info/dependency_links.txt
+opencv_wb_camera_msgs.egg-info/top_level.txt
+opencv_wb_camera_msgs/msg/__init__.py
+opencv_wb_camera_msgs/msg/_camera_still_shot.py
+opencv_wb_camera_msgs/srv/__init__.py
+opencv_wb_camera_msgs/srv/_multi_spawn.py
+opencv_wb_camera_msgs/srv/_take_snapshot.py

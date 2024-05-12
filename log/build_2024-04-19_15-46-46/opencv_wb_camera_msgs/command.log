@@ -1,0 +1,2 @@
+Invoking command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs': CMAKE_PREFIX_PATH=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --build /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs -- -j8 -l8
+Invoked command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs' returned '2': CMAKE_PREFIX_PATH=/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --build /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs -- -j8 -l8

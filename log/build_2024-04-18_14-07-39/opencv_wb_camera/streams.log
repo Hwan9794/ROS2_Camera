@@ -1,0 +1,32 @@
+[0.543s] Invoking command in '/home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera': PYTHONPATH=/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/prefix_override:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_wb_camera build --build-base /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build install --record /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/install.log --single-version-externally-managed install_data
+[0.712s] running egg_info
+[0.712s] creating ../../build/opencv_wb_camera/opencv_wb_camera.egg-info
+[0.723s] writing ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/PKG-INFO
+[0.724s] writing dependency_links to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/dependency_links.txt
+[0.724s] writing requirements to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/requires.txt
+[0.724s] writing top-level names to ../../build/opencv_wb_camera/opencv_wb_camera.egg-info/top_level.txt
+[0.724s] writing manifest file '../../build/opencv_wb_camera/opencv_wb_camera.egg-info/SOURCES.txt'
+[0.747s] reading manifest file '../../build/opencv_wb_camera/opencv_wb_camera.egg-info/SOURCES.txt'
+[0.748s] writing manifest file '../../build/opencv_wb_camera/opencv_wb_camera.egg-info/SOURCES.txt'
+[0.748s] running build
+[0.748s] running build_py
+[0.748s] creating /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build
+[0.748s] creating /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib
+[0.748s] creating /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+[0.748s] copying opencv_wb_camera/__init__.py -> /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera
+[0.748s] running install
+[0.753s] running install_lib
+[0.765s] creating /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera
+[0.765s] copying /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build/lib/opencv_wb_camera/__init__.py -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera
+[0.765s] byte-compiling /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera/__init__.py to __init__.cpython-310.pyc
+[0.765s] running install_data
+[0.765s] creating /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/ament_index
+[0.766s] creating /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/ament_index/resource_index
+[0.766s] creating /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/ament_index/resource_index/packages
+[0.766s] copying resource/opencv_wb_camera -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/ament_index/resource_index/packages
+[0.766s] copying package.xml -> /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/share/opencv_wb_camera
+[0.766s] running install_egg_info
+[0.779s] Copying ../../build/opencv_wb_camera/opencv_wb_camera.egg-info to /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages/opencv_wb_camera-0.0.0-py3.10.egg-info
+[0.779s] running install_scripts
+[0.888s] writing list of installed files to '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/install.log'
+[0.911s] Invoked command in '/home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera' returned '0': PYTHONPATH=/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/prefix_override:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/opencv_wb_camera build --build-base /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/build install --record /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera/install.log --single-version-externally-managed install_data

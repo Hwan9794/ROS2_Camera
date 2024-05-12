@@ -1,0 +1,6 @@
+msg/CameraStillShot.idl
+msg/CameraStillShot.msg
+srv/TakeSnapshot.idl
+srv/TakeSnapshot.srv
+srv/TakeSnapshot_Request.msg
+srv/TakeSnapshot_Response.msg

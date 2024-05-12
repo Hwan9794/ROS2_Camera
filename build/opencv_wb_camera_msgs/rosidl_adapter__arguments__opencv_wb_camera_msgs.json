@@ -1,0 +1,7 @@
+{
+  "package_name": "opencv_wb_camera_msgs",
+  "non_idl_tuples": [
+    "/home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera_msgs:msg/CameraStillShot.msg",
+    "/home/dh/amr_ws/ros2_wb_camera/src/opencv_wb_camera_msgs:srv/TakeSnapshot.srv"
+  ]
+}

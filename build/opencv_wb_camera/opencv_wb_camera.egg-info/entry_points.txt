@@ -1,0 +1,5 @@
+[console_scripts]
+CameraServer = opencv_wb_camera.CameraServer:main
+edge = opencv_wb_camera.edge:main
+img_publisher = opencv_wb_camera.img_publisher:main
+mirror = opencv_wb_camera.mirror:main

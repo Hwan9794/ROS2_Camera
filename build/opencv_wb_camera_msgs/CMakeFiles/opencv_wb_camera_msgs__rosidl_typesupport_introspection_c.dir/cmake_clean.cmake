@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.c.o"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.c.o.d"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.c.o"
+  "CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.c.o.d"
+  "libopencv_wb_camera_msgs__rosidl_typesupport_introspection_c.pdb"
+  "libopencv_wb_camera_msgs__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.c"
+  "rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/opencv_wb_camera_msgs__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

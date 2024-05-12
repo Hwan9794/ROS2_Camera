@@ -1,0 +1,196 @@
+[0.137s] Invoking command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --build /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs -- -j8 -l8
+[0.172s] [ 10%] Built target opencv_wb_camera_msgs__cpp
+[0.172s] [ 12%] Built target opencv_wb_camera_msgs__rosidl_generator_c
+[0.182s] [ 12%] Built target ament_cmake_python_copy_opencv_wb_camera_msgs
+[0.195s] [ 23%] Built target opencv_wb_camera_msgs__rosidl_typesupport_c
+[0.196s] [ 33%] Built target opencv_wb_camera_msgs__rosidl_typesupport_introspection_c
+[0.197s] [ 43%] Built target opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_c
+[0.197s] [ 53%] Built target opencv_wb_camera_msgs__rosidl_typesupport_introspection_cpp
+[0.201s] [ 64%] Built target opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp
+[0.205s] [ 74%] Built target opencv_wb_camera_msgs__rosidl_typesupport_cpp
+[0.219s] [ 74%] Built target opencv_wb_camera_msgs
+[0.234s] [ 76%] Built target opencv_wb_camera_msgs__py
+[0.251s] [ 84%] Built target opencv_wb_camera_msgs__rosidl_generator_py
+[0.267s] [ 89%] Built target opencv_wb_camera_msgs__rosidl_typesupport_introspection_c__pyext
+[0.268s] [ 94%] Built target opencv_wb_camera_msgs__rosidl_typesupport_c__pyext
+[0.273s] [100%] Built target opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.340s] running egg_info
+[0.351s] writing opencv_wb_camera_msgs.egg-info/PKG-INFO
+[0.351s] writing dependency_links to opencv_wb_camera_msgs.egg-info/dependency_links.txt
+[0.352s] writing top-level names to opencv_wb_camera_msgs.egg-info/top_level.txt
+[0.386s] reading manifest file 'opencv_wb_camera_msgs.egg-info/SOURCES.txt'
+[0.386s] writing manifest file 'opencv_wb_camera_msgs.egg-info/SOURCES.txt'
+[0.405s] [100%] Built target ament_cmake_python_build_opencv_wb_camera_msgs_egg
+[0.413s] Invoked command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --build /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs -- -j8 -l8
+[0.470s] Invoking command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --install /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs
+[0.475s] -- Install configuration: ""
+[0.475s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/ament_index/resource_index/rosidl_interfaces/opencv_wb_camera_msgs
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.h
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__type_support.h
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__functions.c
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__functions.c
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__struct.h
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__functions.h
+[0.476s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__struct.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__functions.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/multi_spawn.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/take_snapshot.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/camera_still_shot.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__functions.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__functions.c
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__struct.h
+[0.477s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/library_path.sh
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/library_path.dsv
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_generator_c.so
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_c.h
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_fastrtps_c.h
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.478s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_fastrtps_c.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_fastrtps_c.so
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.c
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__type_support.c
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_c.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_introspection_c.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_introspection_c.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.c
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.479s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_introspection_c.so
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_c.so
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/multi_spawn.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__struct.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__builder.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__traits.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__struct.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__traits.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__builder.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/take_snapshot.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__struct.hpp
+[0.480s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__traits.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__builder.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/camera_still_shot.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/dds_fastrtps
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_fastrtps_cpp.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/dds_fastrtps
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_fastrtps_cpp.hpp
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.481s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__rosidl_typesupport_introspection_cpp.hpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__rosidl_typesupport_introspection_cpp.hpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/multi_spawn__type_support.cpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/srv/detail/take_snapshot__type_support.cpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__rosidl_typesupport_introspection_cpp.hpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/include/opencv_wb_camera_msgs/opencv_wb_camera_msgs/msg/detail/camera_still_shot__type_support.cpp
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_introspection_cpp.so
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_typesupport_cpp.so
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/pythonpath.sh
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/pythonpath.dsv
+[0.482s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs-0.0.0-py3.10.egg-info
+[0.483s] -- Installing: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.483s] -- Installing: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[0.483s] -- Installing: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[0.483s] -- Installing: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/_opencv_wb_camera_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv/_take_snapshot_s.c
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv/_multi_spawn_s.c
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv/_multi_spawn.py
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv/__init__.py
+[0.483s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv/_take_snapshot.py
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/libopencv_wb_camera_msgs__rosidl_generator_py.so
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/msg
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/msg/__init__.py
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/msg/_camera_still_shot.py
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/msg/_camera_still_shot_s.c
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/__init__.py
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/_opencv_wb_camera_msgs_s.ep.rosidl_typesupport_c.c
+[0.484s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/_opencv_wb_camera_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.499s] Listing '/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs'...
+[0.499s] Listing '/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/msg'...
+[0.499s] Listing '/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/srv'...
+[0.502s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/local/lib/python3.10/dist-packages/opencv_wb_camera_msgs/opencv_wb_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/lib/libopencv_wb_camera_msgs__rosidl_generator_py.so
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/msg/CameraStillShot.idl
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/srv/TakeSnapshot.idl
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/msg/CameraStillShot.msg
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/srv/TakeSnapshot.srv
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/srv/TakeSnapshot_Request.msg
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/srv/TakeSnapshot_Response.msg
+[0.503s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/ament_index/resource_index/package_run_dependencies/opencv_wb_camera_msgs
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/ament_index/resource_index/parent_prefix_path/opencv_wb_camera_msgs
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/ament_prefix_path.sh
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/ament_prefix_path.dsv
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/path.sh
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/environment/path.dsv
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/local_setup.bash
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/local_setup.sh
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/local_setup.zsh
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/local_setup.dsv
+[0.504s] -- Installing: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/package.dsv
+[0.504s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/ament_index/resource_index/packages/opencv_wb_camera_msgs
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_generator_cExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_cExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_generator_cppExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_cppExport.cmake
+[0.505s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.506s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_generator_pyExport.cmake
+[0.506s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/export_opencv_wb_camera_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.506s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/rosidl_cmake-extras.cmake
+[0.506s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgsConfig.cmake
+[0.507s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/cmake/opencv_wb_camera_msgsConfig-version.cmake
+[0.508s] -- Up-to-date: /home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera_msgs/share/opencv_wb_camera_msgs/package.xml
+[0.508s] Invoked command in '/home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dh/amr_ws/ros2_wb_camera/install/opencv_wb_camera:/opt/ros/humble /usr/bin/cmake --install /home/dh/amr_ws/ros2_wb_camera/build/opencv_wb_camera_msgs
